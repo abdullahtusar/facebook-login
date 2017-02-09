@@ -1,0 +1,125 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	background: #eaeffa;
+	height: 800px;
+}
+.header{
+	background: #4b66a0;
+	height: 110px;
+	width: 100%;
+}
+.text{
+	color: white;
+	font-size: 20px;
+	width: 50%;
+	float: left;
+}
+.text h1{
+	margin-left: 153px;
+	font-family: 'Armata', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+}
+.table1{
+	width: 50%;
+	float: left;
+}
+.tab{
+	list-style: none;
+	margin-left: 83px;
+}
+#email{
+	float: left;
+	color: white;
+	margin-top: 4px;
+}
+#e1{
+	margin-bottom: 5px;
+}
+#password{
+	float: left;
+	color: white;
+	margin-left: 15px;
+	margin-top: 4px;
+}
+#we{
+    color:#9cabc6;
+}
+#btn{
+
+    color: white;
+    background: #4267b2;
+    margin-top: 43px;
+    margin-left: 15px;
+    border: none;
+    padding: 3px;
+    cursor: pointer;
+
+}
+.slider{
+	width: 100%;
+	background: linear-gradient(#FDFDFE, #D4D9E9);
+}
+.slider h1{
+
+}
+.slider_img{
+	width: 36%;
+	margin-left: 153px;
+	float: left;
+}
+.sign_up{
+	margin-left: 146px;
+	float: left;
+
+}
+.sign_up h4{
+	font-size: 20px;
+	margin-top: -28px;
+}
+#link{
+	font-size: 
+}
+#sign1{
+	width: 42%;
+	padding: 8px 10px;
+}
+#sign2{
+	width: 42%;
+	padding: 8px 10px;
+}
+#sign3{
+	width: 90%;
+    padding: 8px 13px;
+    margin-top: 7px;
+}
+#select{
+	float: left;
+}
+#slct_txt{
+	float: left;
+    font-size: 9px;
+    text-decoration: none;
+    padding-left: 10px;
+    color: #365899;
+}
+#but{
+	color: white;
+    background: #64a651;
+    font-size: 16px;
+    padding: 10px 35px 10px 35px;
+    cursor: pointer;
+}
+.id{
+	font-size: 10px;
+	color: #897b66;
+}
+#rt{
+	text-decoration: none;
+	color:#365899;
+}
+.ip{
+	color: #897b66;
+}
